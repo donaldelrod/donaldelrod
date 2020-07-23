@@ -8,9 +8,8 @@
 
 I am a recent Texas A&M University graduate, currently working as a NASA contractor with Odyssey Space Research.
 I am very interested in large scale and high performance computing and networking, as well as embedded systems, computer architecture and hardware design.
-My current hobby and personal project is creating a modular home automation software to fully encompass my and hopefully others' 
-usefulness for home management.
-My current work project is on for the 2024 Gateway Space Station project, helping us go back to the moon to improve our technology 
+My current hobby and personal project is creating a modular home automation software to fully control and interact with a smart home, and smart cloud services.
+My current work project is for the 2024 Gateway Space Station project, helping us go back to the moon to improve our technology 
 and start planning humanity's future, away from Earth.
 
 Check out all these languages and frameworks I'm comfortable/familiar with:
