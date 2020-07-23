@@ -22,6 +22,6 @@ Check out all these languages and frameworks I'm comfortable/familiar with:
 <p align="center">
 <a href="https://linkedin.com/in/donald-elrod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="donald-elrod" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/11239568/donaldelrod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="donaldelrod" height="20" width="20" /></a>
-<a href="https://medium.com/@donaldelrod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@donaldelrod" height="20" width="20" /></a>
+<a href="https://medium.com/@donald.elrod.96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@donaldelrod" height="20" width="20" /></a>
 </p>
 
